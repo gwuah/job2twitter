@@ -1,0 +1,34 @@
+{
+  "name": "job2twitter",
+  "version": "1.0.0",
+  "description": "A web service that will handle tweeting of new job postings.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwuah/job2twitter.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "devcongress",
+    "jobs",
+    "twitter",
+    "twit"
+  ],
+  "author": "gwuah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwuah/job2twitter/issues"
+  },
+  "homepage": "https://github.com/gwuah/job2twitter#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
