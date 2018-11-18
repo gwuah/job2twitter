@@ -7,4 +7,4 @@ So the catch is simple,
 
 Honestly, that's all this service does.
 
-NB: API_KEYS should be placed in your env file for security reasons.
+## NB : `API_KEYS` should be placed in your env file for security reasons.
