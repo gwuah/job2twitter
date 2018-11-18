@@ -6,3 +6,5 @@ So the catch is simple,
 3. I tweet based on data you send to that webhook.
 
 Honestly, that's all this service does.
+
+NB: API_KEYS should be placed in your env file for security reasons.
